@@ -1,8 +1,8 @@
-package com.codinginflow.mvvmtodo.ui
+package com.hsoftz.mvvmtodo.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.codinginflow.mvvmtodo.R
+import com.hsoftz.mvvmtodo.R
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

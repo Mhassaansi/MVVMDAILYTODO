@@ -1,9 +1,9 @@
-package com.codinginflow.mvvmtodo.ui.tasks
+package com.hsoftz.mvvmtodo.ui.tasks
 
 import androidx.hilt.lifecycle.ViewModelInject
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.asLiveData
-import com.codinginflow.mvvmtodo.data.TaskDao
+import com.hsoftz.mvvmtodo.data.TaskDao
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.combine
 import kotlinx.coroutines.flow.flatMapLatest

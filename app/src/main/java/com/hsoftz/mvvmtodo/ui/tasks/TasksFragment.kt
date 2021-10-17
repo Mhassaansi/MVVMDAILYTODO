@@ -1,4 +1,4 @@
-package com.codinginflow.mvvmtodo.ui.tasks
+package com.hsoftz.mvvmtodo.ui.tasks
 
 import android.os.Bundle
 import android.view.Menu
@@ -9,9 +9,9 @@ import androidx.appcompat.widget.SearchView
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.codinginflow.mvvmtodo.R
-import com.codinginflow.mvvmtodo.databinding.FragmentTasksBinding
-import com.codinginflow.mvvmtodo.util.onQueryTextChanged
+import com.hsoftz.mvvmtodo.R
+import com.hsoftz.mvvmtodo.databinding.FragmentTasksBinding
+import com.hsoftz.mvvmtodo.util.onQueryTextChanged
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

@@ -1,4 +1,4 @@
-package com.codinginflow.mvvmtodo.data
+package com.hsoftz.mvvmtodo.data
 
 import android.os.Parcelable
 import androidx.room.Entity

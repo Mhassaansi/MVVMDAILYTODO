@@ -1,8 +1,8 @@
-package com.codinginflow.mvvmtodo.di
+package com.hsoftz.mvvmtodo.di
 
 import android.app.Application
 import androidx.room.Room
-import com.codinginflow.mvvmtodo.data.TaskDatabase
+import com.hsoftz.mvvmtodo.data.TaskDatabase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

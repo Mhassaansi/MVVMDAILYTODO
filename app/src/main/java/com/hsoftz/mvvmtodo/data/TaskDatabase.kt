@@ -1,9 +1,9 @@
-package com.codinginflow.mvvmtodo.data
+package com.hsoftz.mvvmtodo.data
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
-import com.codinginflow.mvvmtodo.di.ApplicationScope
+import com.hsoftz.mvvmtodo.di.ApplicationScope
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 import javax.inject.Inject
